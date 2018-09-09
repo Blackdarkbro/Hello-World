@@ -1,2 +1,4 @@
 # Hello-World
-Simple code for the beggining
+Савчик Егор
+9 группа
+ДЭиВИ
